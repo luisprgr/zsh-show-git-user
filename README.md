@@ -4,7 +4,7 @@ There are some times when as a developer you need to work with multiple git user
 
 This zsh plugin helps you to add the current git user name to your zsh prompt, so you can always know which user you are using.
 
-![example](https://github.com/luisprgr/zsh-show-git-user/assets/50538689/52ea180e-8ffb-44a7-923c-b0efa9a41c48)
+![example](https://github.com/luisprgr/zsh-show-git-user/assets/50538689/71634edd-9e7a-4598-897a-e5d089102707)
 
 ## Installation
 
