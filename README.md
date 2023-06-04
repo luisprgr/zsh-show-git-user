@@ -2,7 +2,7 @@
 
 There are some times when as a developer you need to work with multiple git users on the same machine, like when you need to have a work account separate from your personal account. This situation can be a bit difficult to manage, because you need to always remember change the git user for the project you are working on. 
 
-This plugin helps you to add the current git user name to your zsh prompt, so you can always know which user you are using.
+This zsh plugin helps you to add the current git user name to your zsh prompt, so you can always know which user you are using.
 
 ![example](https://github.com/luisprgr/zsh-show-git-user/assets/50538689/52ea180e-8ffb-44a7-923c-b0efa9a41c48)
 
